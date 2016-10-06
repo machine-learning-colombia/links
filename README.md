@@ -15,5 +15,5 @@
 * Machine Learning Papers: https://drive.google.com/drive/folders/0BxT_o5tB1SPXN0pRd0M0cWxjdWM?usp=sharing
 
 ## Grupos
-* Facebook: Machine Learning Colombia
-* Slack: Big Data Colombia
+* Facebook: Machine Learning Colombia: https://www.facebook.com/groups/1766056600304468/
+* Slack: Big Data Colombia: https://bigdatacolombia.herokuapp.com/
