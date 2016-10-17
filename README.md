@@ -1,6 +1,6 @@
 # Links Machine Learning
 
-## Cursos Basicos
+## Cursos
 ### Basicos
 * Udacity: https://www.udacity.com/course/intro-to-machine-learning--ud120
 * Coursera: https://www.coursera.org/learn/machine-learning
