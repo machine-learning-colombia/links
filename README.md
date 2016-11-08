@@ -6,6 +6,7 @@
 * Coursera: https://www.coursera.org/learn/machine-learning
 * Oxford: https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 * Caltech: https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x
+* PythonProgramming: https://pythonprogramming.net/machine-learning-tutorials/
 
 ### Avanzados
 * Deep Learning: https://www.udacity.com/course/deep-learning--ud730
