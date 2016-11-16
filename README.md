@@ -25,3 +25,6 @@
 ## Grupos
 * Facebook: Machine Learning Colombia: https://www.facebook.com/groups/1766056600304468/
 * Slack: Big Data Colombia: https://bigdatacolombia.herokuapp.com/
+
+## Foros
+http://blog.kaggle.com/2016/09/13/what-were-reading-data-science-resources/
