@@ -27,4 +27,4 @@
 * Slack: Big Data Colombia: https://bigdatacolombia.herokuapp.com/
 
 ## Foros
-* http://blog.kaggle.com/2016/09/13/what-were-reading-data-science-resources/
+* Kaggle: http://blog.kaggle.com
