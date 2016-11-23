@@ -19,7 +19,10 @@
 * Information Theory: http://www.inference.phy.cam.ac.uk/itprnn/book.pdf
 * Reinforced Learning: http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf
 
-### Papers
+## Podcasts
+* Talking Machines: http://www.thetalkingmachines.com
+
+## Papers
 * Machine Learning Papers: https://drive.google.com/drive/folders/0BxT_o5tB1SPXN0pRd0M0cWxjdWM?usp=sharing
 
 ## Grupos
