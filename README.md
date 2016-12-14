@@ -23,7 +23,7 @@
 * Talking Machines: http://www.thetalkingmachines.com
 
 ## Storage
-* Machine Learning Books Google Drive: https://drive.google.com/drive/folders/0BxT_o5tB1SPXN0pRd0M0cWxjdWM?usp=sharing
+* Machine Learning Google Drive: https://drive.google.com/drive/folders/0BxT_o5tB1SPXN0pRd0M0cWxjdWM?usp=sharing
 
 ## Grupos
 * Facebook: Machine Learning Colombia: https://www.facebook.com/groups/1766056600304468/
