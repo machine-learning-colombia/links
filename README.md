@@ -1,6 +1,6 @@
 # Links Machine Learning
 
-Este repositorio contiene un listado de hipervínculos asociados a páginas donde pueden aprender de Machine Learning. Sea por hobby o por 
+Este repositorio contiene un listado de hipervínculos asociados a páginas donde pueden aprender de Machine Learning. Sea por hobby o por profesión, esperamos que nos ayude a todos.
 
 # Motivación
 
