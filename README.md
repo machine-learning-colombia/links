@@ -2,11 +2,11 @@
 
 Este repositorio contiene un listado de hipervínculos asociados a páginas donde pueden aprender de Machine Learning. Sea por hobby o por profesión, esperamos que nos ayude a todos.
 
-# Motivación
+## Motivación
 
 Queremos ofrecer un sitio donde se encuentren actualizados los recursos donde podamos conocer más acerca de Machine Learning. De esta manera generamos una curva de aprendizaje más corta. Así mismo, este repositorio sirve como un medio de motivación para quienes no conocen y tampoco saben por dónde empezar.
 
-# Contribuciones
+## Contribuciones
 Todas las personas se encuentran invitadas a agregar nuevos links de sitios donde podamos aprender más acerca de este tema. Entre más recursos tengamos y actualizados tengamos los links, mejor.
 
 # Listado
