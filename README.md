@@ -31,6 +31,9 @@ Todas las personas se encuentran invitadas a agregar nuevos links de sitios dond
 
 ## Podcasts
 * Talking Machines: http://www.thetalkingmachines.com
+* Data Skeptic: https://dataskeptic.com/podcast
+* Linear Digressions: http://lineardigressions.com/
+* Partially Derivative: http://partiallyderivative.com/
 
 ## Storage
 * Machine Learning Google Drive: https://drive.google.com/drive/folders/0BxT_o5tB1SPXN0pRd0M0cWxjdWM?usp=sharing
