@@ -17,6 +17,8 @@ Todas las personas se encuentran invitadas a agregar nuevos links de sitios dond
 * Oxford: https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 * Caltech: https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x
 * PythonProgramming: https://pythonprogramming.net/machine-learning-tutorials/
+* Python (Advanced Features): https://tech.io/playgrounds/500/advanced-python-features/advanced-python-features
+* Scala: https://tech.io/playgrounds/270/functional-programming-explained-to-my-grandma/
 * SciKit-learn: http://scikit-learn.org/stable/tutorial/index.html 
 
 ### Avanzados
