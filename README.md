@@ -47,3 +47,4 @@ Todas las personas se encuentran invitadas a agregar nuevos links de sitios dond
 
 ## Foros
 * Kaggle: http://blog.kaggle.com
+* Requisitos Self Driving Car Course: https://docs.google.com/spreadsheets/d/13QQinPFhU9DwujctXS0A7un0up4N5BNyUDZwxK4I6hg/edit#gid=0
