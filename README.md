@@ -20,8 +20,10 @@ Todas las personas se encuentran invitadas a agregar nuevos links de sitios dond
 * Python (Advanced Features): https://tech.io/playgrounds/500/advanced-python-features/advanced-python-features
 * Scala: https://tech.io/playgrounds/270/functional-programming-explained-to-my-grandma/
 * SciKit-learn: http://scikit-learn.org/stable/tutorial/index.html 
+* Platzi: https://platzi.com/cursos/ia/, https://platzi.com/cursos/scikit/
 
 ### Avanzados
+* Deep Learning Especialization: https://www.coursera.org/specializations/deep-learning
 * Deep Learning: https://www.udacity.com/course/deep-learning--ud730
 * Deep learning for NLP: http://cs224d.stanford.edu/
 * Convolutional Neural Networks: http://cs231n.stanford.edu/
