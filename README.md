@@ -25,6 +25,7 @@ Todas las personas se encuentran invitadas a agregar nuevos links de sitios dond
 * Scala: https://tech.io/playgrounds/270/functional-programming-explained-to-my-grandma/
 * SciKit-learn: http://scikit-learn.org/stable/tutorial/index.html 
 * Platzi: https://platzi.com/cursos/ia/, https://platzi.com/cursos/scikit/
+* Google: https://developers.google.com/machine-learning/crash-course/ml-intro 
 
 ### Avanzados
 * Deep Learning Especialization: https://www.coursera.org/specializations/deep-learning
