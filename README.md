@@ -37,6 +37,7 @@ Todas las personas se encuentran invitadas a agregar nuevos links de sitios dond
 * Think Stats: http://www.greenteapress.com/thinkstats/thinkstats.pdf
 * Bayesian Reasoning and Machine Learning: http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf
 *  An Introduction to Statistical Learning with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf
+* A Brief Introduction to Neural Networks: http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-2col-dkrieselcom.pdf
 
 ## Podcasts
 * Talking Machines: http://www.thetalkingmachines.com
