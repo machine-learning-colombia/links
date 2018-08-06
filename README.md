@@ -19,9 +19,9 @@ Todas las personas se encuentran invitadas a agregar nuevos links de sitios dond
 * PythonProgramming: https://pythonprogramming.net/machine-learning-tutorials/
 * Python (Advanced Features): https://tech.io/playgrounds/500/advanced-python-features/advanced-python-features
 * Scala: https://tech.io/playgrounds/270/functional-programming-explained-to-my-grandma/
-* SciKit-learn: http://scikit-learn.org/stable/tutorial/index.html 
+* SciKit-learn: http://scikit-learn.org/stable/tutorial/index.html
 * Platzi: https://platzi.com/cursos/ia/, https://platzi.com/cursos/scikit/
-* Google: https://developers.google.com/machine-learning/crash-course/ml-intro 
+* Google: https://developers.google.com/machine-learning/crash-course/ml-intro
 
 ### Avanzados
 * Deep Learning Especialization: https://www.coursera.org/specializations/deep-learning
@@ -34,6 +34,9 @@ Todas las personas se encuentran invitadas a agregar nuevos links de sitios dond
 * ESL: http://statweb.stanford.edu/~tibs/ElemStatLearn/
 * Information Theory: http://www.inference.phy.cam.ac.uk/itprnn/book.pdf
 * Reinforced Learning: http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf
+* Think Stats: http://www.greenteapress.com/thinkstats/thinkstats.pdf
+* Bayesian Reasoning and Machine Learning: http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf
+*  An Introduction to Statistical Learning with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf
 
 ## Podcasts
 * Talking Machines: http://www.thetalkingmachines.com
