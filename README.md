@@ -28,6 +28,7 @@ Todas las personas se encuentran invitadas a agregar nuevos links de sitios dond
 * Deep Learning: https://www.udacity.com/course/deep-learning--ud730
 * Deep learning for NLP: http://cs224d.stanford.edu/
 * Convolutional Neural Networks: http://cs231n.stanford.edu/
+* Intro to Deep Learning with PyTorch: https://www.udacity.com/course/deep-learning-pytorch--ud188
 
 ## Libros
 * Deep Learning: http://www.deeplearningbook.org/
